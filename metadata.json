@@ -1,0 +1,6 @@
+{
+  "name": "Aira - Personal AI Assistant",
+  "description": "Conversational AI assistant replying in simple Hindi, assisting with daily tasks, fitness, learning, jobs, and planning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
